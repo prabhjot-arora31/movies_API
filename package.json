@@ -1,0 +1,18 @@
+{
+  "name": "basic-server",
+  "version": "1.0.0",
+  "description": "This is a basic server for demonstration",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Prabhjot Arora",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1",
+    "nodemon": "^3.1.0",
+    "nodmeon": "^0.0.1-security"
+  }
+}
