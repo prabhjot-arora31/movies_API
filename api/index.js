@@ -42,3 +42,4 @@ app.get('/api',(req,res)=>{
 app.listen(3004,()=>{
     console.log('listening on port 3004')
 })
+module.exports = app
